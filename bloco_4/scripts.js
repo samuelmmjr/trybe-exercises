@@ -10,6 +10,6 @@ else{
     console.log("Você foi reprovada(o)");
 }
 
-let msg = console.log()
+let msg = 
 
 console.log(msg);
